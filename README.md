@@ -7,7 +7,7 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
   ## Description
-  The project is a README generator. A README file usually accompanies projects on GitHub, that other programmers can access. The README file usually contains information about the project. Stereotypically, the README outlines what the project is, what tools were used for the projects; such as programming languages used, installation process, and how to use the application. 
+  The project is a README generator. A README file usually accompanies projects on GitHub, that other programmers can access. The README file usually contains information about the project. Stereotypically, the README outlines what the project is, what tools were used for the projects; such as programming languages used, installation process, and how to use the application. This application was created using node js.
 
   ## Table of Content
   - [Project Description](#Description)
