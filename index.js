@@ -97,7 +97,7 @@ const questions = [
     
 ];
 
-// Create a function to write README file
+// function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, err => {
         if (err) {
@@ -109,7 +109,7 @@ function writeToFile(fileName, data) {
     })
 }
 
-// Create a function to initialize app
+//a function to initialize app
 function init() {
     inquirer.prompt(questions)
         .then(answers => writeToFile("README.md", generateMarkdown(answers)));
