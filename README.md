@@ -1,6 +1,13 @@
-# hello![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# ReadmeGenerator![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## User Story
+
+```md
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+```
   ## Description
-  smiley
+  The project is a README generator. A README file usually accompanies projects on GitHub, that other programmers can access. The README file usually contains information about the project. Stereotypically, the README outlines what the project is, what tools were used for the projects; such as programming languages used, installation process, and how to use the application. 
 
   ## Table of Content
   - [Project Description](#Description)
@@ -10,10 +17,10 @@
   - [Questions](#Questions)
 
   ## Installation
-  ok
+  node index.js
 
   ## Tools
-  yes
+  This specific project was to create a README file by using a command-line application to generate one, therefore this would allow programmers to spend more time on projects. Node.JS
 
 
   ## License 
@@ -23,4 +30,4 @@ This project is licensed under the terms of MIT.  (https://opensource.org/licens
   ## Questions
   For any Questions Contact me at: <br />
   Github: https://github.com/33hollie33 <br />
-  E-Mail: holly@gmail.com
+  E-Mail: 
